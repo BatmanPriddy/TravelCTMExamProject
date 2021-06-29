@@ -1,1 +1,1 @@
-Soon to be snazzy code for Travel CTM API exam solution
+Travel CTM API exam solution, light on the cruft, heavy on the awesome
