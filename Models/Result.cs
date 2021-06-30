@@ -8,7 +8,7 @@
 	{
 		//Data is the result data, generic here so it can be whatever you want
 		//ErrorMessage is for any failures you might encounter, that the user/call can see to determine issue
-		//Success is a boolean of hey it work, or nope, houston we have a problem!
+		//Success is a boolean of hey it works, or nope, houston we have a problem!
 		public T Data { get; set; }
 		public string ErrorMessage { get; set; }
 		public bool Success { get; set; }
